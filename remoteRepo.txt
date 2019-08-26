@@ -1,0 +1,11 @@
+Mkdir basic_repo
+Cd basic_repo
+Touch index.html
+Touch style.css
+Git init
+Git status
+Git add .
+Git commit -m "created index.html and style.css"
+Git remote add origin http://...
+
+Git push origin master
